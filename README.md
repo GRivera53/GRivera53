@@ -1,3 +1,3 @@
 Hi there! - I'm Gerardo
 
-<b> <i> Test </i></b>
+* Currently working at <a href = "tysonfoods.com">Tyson Foods Inc </a>
