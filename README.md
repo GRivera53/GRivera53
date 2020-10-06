@@ -1,5 +1,3 @@
-Creating new content
+Hi there! - I'm Gerardo
 
-Studying for Full Stack Development Specialization on Coursera
-
-Looking always be better and learn more
+<b> <i> Test </i></b>
